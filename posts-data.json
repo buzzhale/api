@@ -3402,5 +3402,75 @@
       }
     ],
     "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65cbc2d310e39f53533874c3"
+    },
+    "title": "Elvish Yadav Addresses Viral Slap Video: The Real Story!",
+    "thumbnailImg": "https://www.buzzhale.com/bh-files/img/elvish-yadav-viral-video-cover.jpg",
+    "description": "After winning Bigg Boss OTT Season 2, Elvish Yadav has been the subject of much discussion on the internet. Several controversies have surrounded him, but his fans have also shown strong support for him...",
+    "category": "currentevents",
+    "postDetails": {
+      "uploadDate": "2024-02-13",
+      "writerName": "Dhawal",
+      "writerImg": ""
+    },
+    "content": [
+      {
+        "heading": "",
+        "paragraphs": [
+          "After winning Bigg Boss OTT Season 2, Elvish Yadav has been the subject of much discussion on the internet. Several controversies have surrounded him, but his fans have also shown strong support for him. Recently, a video of Elvish Yadav has gone viral on social media, where he can be seen slapping an individual outside a restaurant. Upon watching the video, many people expressed disappointment, stating that Elvish Yadav should not have done such a thing. This incident has provided Elvish Yadav's critics with a good opportunity to troll and criticize him. But what was the reason that made Elvish Yadav so angry that he ended up slapping the person? Let's find out the truth.\n"
+        ],
+        "image": [],
+        "video": [
+          {
+            "vidName": "Elvish Yadav's viral video. [source - @realthekhabri]",
+            "vidLink": "https://www.buzzhale.com/bh-files/vid/elvish-yadav-viral-video.mp4",
+            "_id": {
+              "$oid": "65cbc2d310e39f53533874c5"
+            }
+          }
+        ],
+        "url": [],
+        "_id": {
+          "$oid": "65cbc2d310e39f53533874c4"
+        }
+      },
+      {
+        "heading": "The Truth Behind the Viral Video",
+        "paragraphs": [
+          "After the controversial video of Elvish Yadav went viral, he started receiving a significant amount of hate. Many news channels began portraying him as a villain. In response to all this, Elvish Yadav addressed the situation by posting a video on his official YouTube vlog channel, revealing the truth behind the viral video. In that video, he explained that as he was leaving the restaurant, a person behind him hurled offensive remarks about his mother. Elvish Yadav,  heard the insult and in a fit of anger, he ended up slapping the individual.",
+          "Upon hearing Elvish Yadav's clarification, the public perception on social media has shifted, and many now believe that what Elvish did was justified. This incident should serve as a significant lesson for all of us, whether someone is a celebrity or an ordinary person – everyone holds deep love and respect for their parents, and no one can tolerate any wrongdoings about them. Therefore, before speaking ill about someone's parents, one should think a hundred times, as such an incident could happen to anyone."
+        ],
+        "image": [],
+        "video": [],
+        "url": [
+          {
+            "urlName": "Elvish Yadav Clarification Vlog",
+            "urlLink": "https://youtu.be/lUF4Zfl3R0E?si=eHFM3HZQYBKAfNhf",
+            "_id": {
+              "$oid": "65cbc2d310e39f53533874c7"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "65cbc2d310e39f53533874c6"
+        }
+      },
+      {
+        "heading": "",
+        "paragraphs": [
+          "Thank you for taking the time to read our article! 🙌 We appreciate your interest and hope you found the information valuable. 📚"
+        ],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "65cbc2d310e39f53533874c8"
+        }
+      }
+    ],
+    "__v": 0
   }
 ]
