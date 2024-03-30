@@ -1562,7 +1562,6 @@
     ],
     "__v": 0
   },
-
   {
     "_id": {
       "$oid": "659d90ca54bd022c842650d2"
@@ -3226,5 +3225,102 @@
       { "heading": "CONCLUSION", "paragraphs": ["EV vehicles are much more environmentally friendly compared to fuel vehicles, which is crucial for the future safety of both the environment and humanity. Not only that, but EV vehicles also have the capability to rival fuel vehicles in terms of performance. However, one thing that discourages people from buying EV vehicles is India's charging infrastructure, which is not in the best condition right now. But the government is now focused on the development of charging infrastructure, and assures that India's charging infrastructure will be much better in the future.", "Whether to buy fuel vehicles or EV vehicles depends on everyone's personal preference and opinion. However, it cannot be denied that the future of EV vehicles is much brighter compared to fuel vehicles. EV vehicles are the key to a healthier environment and healthier humans."], "image": [], "video": [], "url": [], "_id": { "$oid": "65fbf56c592f45f9a127c4ee" } }
     ],
     "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": {
+      "$oid": "6607ac7b75f9fbe4ce2070d2"
+    },
+    "title": "Best Artificial Intelligence Stocks (AI Stocks) in India - 2024",
+    "thumbnailImg": "https://www.buzzhale.com/bh-files/img/ai-stock-cover.jpg",
+    "description": "Top 5 AI stocks : \n\n1. Persistent Systems Ltd\n2. Tata Elxsi Ltd\n3. Affle (India) Ltd\n4. Cyient Ltd\n5. Zensar Technologies",
+    "category": "business",
+    "postDetails": {
+      "uploadDate": "2024-03-30",
+      "writerName": "Dhawal",
+      "writerImg": ""
+    },
+    "content": [
+      {
+        "heading": "",
+        "paragraphs": ["As technology continues to reshape industries worldwide, the Indian stock market is no exception. In 2024, the integration of artificial intelligence (AI) has become a significant driver of change, offering investors exciting new opportunities for growth and innovation. AI stocks, representing companies deeply involved in AI development, implementation, or utilization, have emerged as compelling investment options. In this introduction, we'll explore the landscape of AI stocks in India, highlighting their importance, potential, and relevance in the evolving stock market scenario."],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "6607ac7b75f9fbe4ce2070d3"
+        }
+      },
+      {
+        "heading": "Top 5 AI stocks :",
+        "paragraphs": ["1. Persistent Systems Ltd", "2. Tata Elxsi Ltd", "3. Affle (India) Ltd", "4. Cyient Ltd", "5. Zensar Technologies"],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "6607ac7b75f9fbe4ce2070d4"
+        }
+      },
+      {
+        "heading": "1. Persistent Systems Ltd",
+        "paragraphs": ["Persistent Systems Ltd, presenting a present share price of Rs. 3989.25, has undergone a phenomenal growth ratio of 1154.48% over the elapsed 5 years. As a premier worldwide provider of solutions, Unwavering Structures specializes in the development of software products and technological services, extending its services to clientele across diverse sectors globally."],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "6607ac7b75f9fbe4ce2070d5"
+        }
+      },
+      {
+        "heading": "2. Tata Elxsi Ltd",
+        "paragraphs": ["Tata Elxsi Ltd, touting an share price of Rs. 7779.60, has observed an impressive growth ratio of 707.01% over the antecedent 5 years. Celebrated for its proficiency in design and technological services, Tata Elxsi caters to an assorted clientele across sectors, positioning itself as a paramount contender in the global market."],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "6607ac7b75f9fbe4ce2070d6"
+        }
+      },
+      {
+        "heading": "3. Affle (India) Ltd",
+        "paragraphs": ["Affle India Ltd, presently exchanging at an share price of Rs. 1040.05, has encountered a significant growth ratio of 459.23% over the last 5 years. Specializing in mobile advertising technology, Affle India has emerged as a prominent figure in the digital marketing sphere, serving clientele globally with its avant-garde solutions and strategic methodology."],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "6607ac7b75f9fbe4ce2070d7"
+        }
+      },
+      {
+        "heading": "4. Cyient Ltd ",
+        "paragraphs": ["Cyient Ltd, holding an share price of Rs. 1993.60, has evidenced a sturdy growth ratio of 197% over the past 5 years. Acclaimed for its prowess in engineering, manufacturing, and digital technological solutions, Cyient Ltd has entrenched itself as a reliable collaborator for clients worldwide, propelling innovation and excellence across assorted sectors."],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "6607ac7b75f9fbe4ce2070d8"
+        }
+      },
+      {
+        "heading": "5. Zensar Technologies",
+        "paragraphs": ["Zensar Technologies, commanding an share price of Rs. 605.40, has undergone a commendable growth ratio of 157.78% over the preceding 5 years. As a global purveyor of digital solutions and technological services, Zensar Technologies garners recognition for its innovative approach and adeptness in assisting clients in navigating the intricacies of the digital epoch, fostering growth and triumph in an evolving milieu."],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "6607ac7b75f9fbe4ce2070d9"
+        }
+      },
+      {
+        "heading": "Bonus: Oracle Financial Services Software Ltd",
+        "paragraphs": ["Oracle Financial Services Software Ltd, presently transacting at an share price of Rs. 8766.05, has demonstrated a noteworthy growth ratio of 157.62% over the last 5 years. As a foremost provider of financial services software and solutions, Oracle Financial Services Software Ltd is entrusted by institutions globally for its cutting-edge technology and comprehensive suite of offerings, propelling efficiency and innovation in the financial services domain."],
+        "image": [],
+        "video": [],
+        "url": [],
+        "_id": {
+          "$oid": "6607ac7b75f9fbe4ce2070da"
+        }
+      }
+    ],
+    "__v": 0
   }
 ]
