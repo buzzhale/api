@@ -186,7 +186,7 @@
         "video": [
           {
             "vidName": "Sadhguru's reaction on carryminati's video. [ Source : instagram/@sadhguru ]",
-            "vidLink": "https://www.buzzhale.netlify.app/bh-files/vid/sadhguru-reaction-on-carry-parody-video.mp4",
+            "vidLink": "https://buzzhale.netlify.app/bh-files/vid/sadhguru-reaction-on-carry-parody-video.mp4",
             "_id": {
               "$oid": "65775fd033fa1caf00d6e946"
             }
@@ -2877,7 +2877,7 @@
         "video": [
           {
             "vidName": "Rohit's funny conversation with the umpire. ",
-            "vidLink": "https://www.buzzhale.netlify.app/bh-files/vid/rohit-sharma-funny-coversation-with-umpires.mp4",
+            "vidLink": "https://buzzhale.netlify.app/bh-files/vid/rohit-sharma-funny-coversation-with-umpires.mp4",
             "_id": {
               "$oid": "65a97027afd4003aa0588e03"
             }
@@ -2937,7 +2937,7 @@
   {
     "_id": { "$oid": "65bd427c408abcf35b01df4b" },
     "title": "Do You Know Why Ram Lalla's Idol Is Dark In Color? Here Is The Answer!",
-    "thumbnailImg": "https://www.buzzhale.netlify.app/bh-files/img/ram-lalla-idol.png",
+    "thumbnailImg": "https://buzzhale.netlify.app/bh-files/img/ram-lalla-idol.png",
     "description": "On January 22, 2024, after much anticipation, the inauguration of the Ram Mandir finally took place. On this day, the consecration ceremony (pran pratishtha) of the sacred idol of Lord Ram, known as Ram Lalla, was also conducted...",
     "category": "current events",
     "postDetails": { "uploadDate": "2024-02-02", "writerName": "Dhawal", "writerImg": "" },
@@ -2977,7 +2977,7 @@
       "$oid": "65cbc2d310e39f53533874c3"
     },
     "title": "Elvish Yadav Addresses Viral Slap Video: The Real Story!",
-    "thumbnailImg": "https://www.buzzhale.netlify.app/bh-files/img/elvish-yadav-viral-video-cover.jpg",
+    "thumbnailImg": "https://buzzhale.netlify.app/bh-files/img/elvish-yadav-viral-video-cover.jpg",
     "description": "After winning Bigg Boss OTT Season 2, Elvish Yadav has been the subject of much discussion on the internet. Several controversies have surrounded him, but his fans have also shown strong support for him...",
     "category": "current events",
     "postDetails": {
@@ -2993,7 +2993,7 @@
         "video": [
           {
             "vidName": "Elvish Yadav's viral video. [source - @realthekhabri]",
-            "vidLink": "https://www.buzzhale.netlify.app/bh-files/vid/elvish-yadav-viral-video.mp4",
+            "vidLink": "https://buzzhale.netlify.app/bh-files/vid/elvish-yadav-viral-video.mp4",
             "_id": {
               "$oid": "65cbc2d310e39f53533874c5"
             }
@@ -3043,7 +3043,7 @@
       "$oid": "65dc4006aeab51378ce5a719"
     },
     "title": "8 Hacks To Keep Yourself Mentally Fit!",
-    "thumbnailImg": "https://www.buzzhale.netlify.app/bh-files/img/mental-health-tips-cover.jpg",
+    "thumbnailImg": "https://buzzhale.netlify.app/bh-files/img/mental-health-tips-cover.jpg",
     "description": "Depression, anxiety, sadness, and various mental health issues that were once unheard of are now prevalent in today's world, affecting every other person. Feeling sad or experiencing sorrow in life is common, but consistently being unhappy constitutes depression...",
     "category": "health",
     "postDetails": {
@@ -3161,14 +3161,14 @@
   {
     "_id": { "$oid": "65f5d408a2b3709f132f8f1d" },
     "title": "Introducing Devin AI: A New Era in Software Development!",
-    "thumbnailImg": "https://www.buzzhale.netlify.app/bh-files/img/devin-ai-cover.jpg",
+    "thumbnailImg": "https://buzzhale.netlify.app/bh-files/img/devin-ai-cover.jpg",
     "description": "Devin AI is a tool created by a company called Cognition. The company claims that it is the first AI software engineer too...",
     "category": "technology",
     "postDetails": { "uploadDate": "2024-03-16", "writerName": "Dhawal", "writerImg": "" },
     "content": [
       { "heading": "", "paragraphs": ["In today's quickly changing world of technology, there's something new catching people's eyes – Devin AI. But what is Devin AI, and what makes it special? Let's dig into this exciting innovation in plain language."], "image": [], "video": [], "url": [], "_id": { "$oid": "65f5d408a2b3709f132f8f1e" } },
       { "heading": "What is Devin AI?", "paragraphs": ["Devin AI is a tool created by a company called Cognition. The company claims that it is the first AI software engineer too. According to Cognition, with advances in long-term reasoning and planning, Devin can plan and execute complex engineering tasks requiring thousands of decisions. Devin can recall relevant context at every step, learn over time, and fix mistakes.", "Devin has also been equipped with common developer tools including the shell, code editor, and browser within a sandboxed compute environment—everything a human would need to do their work.", "Finally, Devin has been given the ability to actively collaborate with the user. Devin reports on its progress in real time, accepts feedback, and works together with the user through design choices as needed."], "image": [], "video": [], "url": [], "_id": { "$oid": "65f5d408a2b3709f132f8f1f" } },
-      { "heading": "What makes it so special?", "paragraphs": ["Devin AI's special features lie in its ability to explore the internet and solve problems. Using simple prompts, Devin can efficiently create websites or software, and not only that, it can also host websites. Devin AI can surpass other AI tools due to its accuracy. By exploring the internet, Devin ensures that its code is highly accurate. If there's an error in the generated code, Devin keeps making changes until the error is resolved. The company also claims that its accuracy exceeds that of other AI tools."], "image": [{ "imgName": "[ Source : cognition-labs.com ]", "imgLink": "https://www.buzzhale.netlify.app/bh-files/img/devin-chart-by-cognition.png", "_id": { "$oid": "65f5d408a2b3709f132f8f21" } }], "video": [], "url": [], "_id": { "$oid": "65f5d408a2b3709f132f8f20" } },
+      { "heading": "What makes it so special?", "paragraphs": ["Devin AI's special features lie in its ability to explore the internet and solve problems. Using simple prompts, Devin can efficiently create websites or software, and not only that, it can also host websites. Devin AI can surpass other AI tools due to its accuracy. By exploring the internet, Devin ensures that its code is highly accurate. If there's an error in the generated code, Devin keeps making changes until the error is resolved. The company also claims that its accuracy exceeds that of other AI tools."], "image": [{ "imgName": "[ Source : cognition-labs.com ]", "imgLink": "https://buzzhale.netlify.app/bh-files/img/devin-chart-by-cognition.png", "_id": { "$oid": "65f5d408a2b3709f132f8f21" } }], "video": [], "url": [], "_id": { "$oid": "65f5d408a2b3709f132f8f20" } },
       { "heading": "How does it differ from ChatGPT?", "paragraphs": ["While ChatGPT generates text based on prompts, Devin AI is specifically designed for programming software. Although ChatGPT can also code, its accuracy is much lower compared to Devin. Devin AI includes tools like a web browser and code editor, which enable it to code with high accuracy and even debug automatically. ChatGPT isn't familiar with current events and can't browse the internet, but Devin can easily explore the web through its web browser and search for source code."], "image": [], "video": [], "url": [], "_id": { "$oid": "65f5d408a2b3709f132f8f22" } },
       { "heading": "Are you in danger of losing your job?", "paragraphs": ["Technology is advancing rapidly. New AI tools like Devin, ChatGPT, Bard, etc., are entering the market, capable of not only programming but also easily completing creative tasks like video editing and photo editing. So, will AI tools replace humans? Will your job be at risk? The answer is no. No matter how advanced AI tools become, they can never replace humans. Even though AI tools are designed to assist humans and make their work easier, they are not meant to replace them. If you are a website developer or a software developer, you shouldn't be afraid of Devin AI, instead, you need to learn how to use it. Devin AI is not a problem for developers, it's a solution."], "image": [], "video": [], "url": [], "_id": { "$oid": "65f5d408a2b3709f132f8f23" } },
       { "heading": "Conclusion", "paragraphs": ["Devin AI is a huge step forward in the world of software development. Its ability to write and debug code on its own makes life much easier for programmers. It saves time and can boost their productivity. It doesn't threaten the jobs of software engineers or web developers as long as they learn to work with it. Here's to the future of software development with Devin AI leading the way."], "image": [], "video": [], "url": [], "_id": { "$oid": "65f5d408a2b3709f132f8f24" } }
@@ -3178,7 +3178,7 @@
   {
     "_id": { "$oid": "65fbf56c592f45f9a127c4e2" },
     "title": "Electric Vehicles vs Fuel Vehicles - Which One You Should Buy ?",
-    "thumbnailImg": "https://www.buzzhale.netlify.app/bh-files/img/ev-vehicles-cover.jpg",
+    "thumbnailImg": "https://buzzhale.netlify.app/bh-files/img/ev-vehicles-cover.jpg",
     "description": "In today's discourse, electric vehicles (EVs) are emerging as a compelling solution to address environmental concerns, offering significantly lower emissions compared to traditional fuel vehicles...",
     "category": "technology",
     "postDetails": { "uploadDate": "2024-03-21", "writerName": "Dhawal", "writerImg": "" },
@@ -3197,7 +3197,7 @@
       {
         "heading": "CHARGING INFRASTUCTURE AND FUEL STATIONS",
         "paragraphs": ["Charging infrastructure is the biggest barrier to the growth of EV vehicles in India. According to a report by the Economic Times, there are 89,000 petrol pumps in India, of which only 17% have EV charging facilities. Currently, there is only one charging station per 135 EVs in India, which is very low compared to the global ratio of 1 charging station for 6 to 20 EVs. The Indian government aims to install 46,000 charging stations by 2030, which would increase the ratio to 1 charging station per 20 EVs. This decision by the Indian government indicates that they have accepted the growth of EV vehicles and have taken steps to improve charging infrastructure, suggesting that EV vehicles may challenge and possibly surpass fuel vehicles in the future."],
-        "image": [{ "imgName": "Report by Economic Times", "imgLink": "https://www.buzzhale.netlify.app/bh-files/img/ev-charging-infrastructure-report-economic-times.png", "_id": { "$oid": "65fbf56c592f45f9a127c4e8" } }],
+        "image": [{ "imgName": "Report by Economic Times", "imgLink": "https://buzzhale.netlify.app/bh-files/img/ev-charging-infrastructure-report-economic-times.png", "_id": { "$oid": "65fbf56c592f45f9a127c4e8" } }],
         "video": [],
         "url": [],
         "_id": { "$oid": "65fbf56c592f45f9a127c4e7" }
@@ -3220,7 +3220,7 @@
         "url": [{ "urlName": "To explore your state's EV policies, visit this link:", "urlLink": "https://e-amrit.niti.gov.in/state-level-policies/", "_id": { "$oid": "65fbf56c592f45f9a127c4ea" } }],
         "_id": { "$oid": "65fbf56c592f45f9a127c4e9" }
       },
-      { "heading": "CONSUMER ADOPTION AND PERCEPTION", "paragraphs": ["In India, there isn't a very positive perception regarding EV cars. Some people associate EV cars with e-rickshaws. They claim that like e-rickshaws, EV cars also only operate at speeds of 40-50 km/h, which is not true. EV cars provide speed and performance just like normal fuel cars. However, in India, people are gradually adopting EV vehicles. According to Energyworld.com, EV vehicle sales in India have increased from 1.75% (in 2021) to 6.35% (in 2023), indicating that people in India are beginning to understand the importance of the environment and are shifting towards EV vehicles."], "image": [{ "imgName": "Report by Energy World", "imgLink": "https://www.buzzhale.netlify.app/bh-files/img/en-sales-increase-energyworld-report.png", "_id": { "$oid": "65fbf56c592f45f9a127c4ec" } }], "video": [], "url": [], "_id": { "$oid": "65fbf56c592f45f9a127c4eb" } },
+      { "heading": "CONSUMER ADOPTION AND PERCEPTION", "paragraphs": ["In India, there isn't a very positive perception regarding EV cars. Some people associate EV cars with e-rickshaws. They claim that like e-rickshaws, EV cars also only operate at speeds of 40-50 km/h, which is not true. EV cars provide speed and performance just like normal fuel cars. However, in India, people are gradually adopting EV vehicles. According to Energyworld.com, EV vehicle sales in India have increased from 1.75% (in 2021) to 6.35% (in 2023), indicating that people in India are beginning to understand the importance of the environment and are shifting towards EV vehicles."], "image": [{ "imgName": "Report by Energy World", "imgLink": "https://buzzhale.netlify.app/bh-files/img/en-sales-increase-energyworld-report.png", "_id": { "$oid": "65fbf56c592f45f9a127c4ec" } }], "video": [], "url": [], "_id": { "$oid": "65fbf56c592f45f9a127c4eb" } },
       { "heading": "FUTURE OUTLOOK", "paragraphs": ["When discussing the future outlook of EV vehicles, it appears very promising. There are numerous reasons that indicate not only growth but possibly compulsory adoption of EV vehicles in the future if we want to preserve our environment and ourselves. The main reasons that could contribute to the future growth of EV vehicles are as follows:", "1. Reduced carbon emissions and sustainability", "2. Cheaper to maintain", "3. Charging made easy", "4. Enjoyable driving experience", "5. According to a report, the global Electric Vehicle (EV) market is growing rapidly at an impressive annual rate of 21.7%."], "image": [], "video": [], "url": [], "_id": { "$oid": "65fbf56c592f45f9a127c4ed" } },
       { "heading": "CONCLUSION", "paragraphs": ["EV vehicles are much more environmentally friendly compared to fuel vehicles, which is crucial for the future safety of both the environment and humanity. Not only that, but EV vehicles also have the capability to rival fuel vehicles in terms of performance. However, one thing that discourages people from buying EV vehicles is India's charging infrastructure, which is not in the best condition right now. But the government is now focused on the development of charging infrastructure, and assures that India's charging infrastructure will be much better in the future.", "Whether to buy fuel vehicles or EV vehicles depends on everyone's personal preference and opinion. However, it cannot be denied that the future of EV vehicles is much brighter compared to fuel vehicles. EV vehicles are the key to a healthier environment and healthier humans."], "image": [], "video": [], "url": [], "_id": { "$oid": "65fbf56c592f45f9a127c4ee" } }
     ],
@@ -3231,7 +3231,7 @@
       "$oid": "6607ac7b75f9fbe4ce2070d2"
     },
     "title": "Best Artificial Intelligence Stocks (AI Stocks) in India - 2024",
-    "thumbnailImg": "https://www.buzzhale.netlify.app/bh-files/img/ai-stock-cover.jpg",
+    "thumbnailImg": "https://buzzhale.netlify.app/bh-files/img/ai-stock-cover.jpg",
     "description": "Top 5 AI stocks : \n\n1. Persistent Systems Ltd\n2. Tata Elxsi Ltd\n3. Affle (India) Ltd\n4. Cyient Ltd\n5. Zensar Technologies",
     "category": "business",
     "postDetails": {
